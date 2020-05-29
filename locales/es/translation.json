@@ -1,0 +1,62 @@
+{
+  "currentProfession": "Desarrollador Web FullStack",
+  "frontProfession": "Desarrollador Frontend",
+  "oldProfession": "Especialista en Lenguaje de Programación",
+  "profile": {
+    "title": "Perfil",
+    "content": "<i><strong>Ingeniero de Sistemas</strong> graduado en la UNEFA (Universidad Nacional Experimental Politécnica de la Fuerza Armada) de Venezuela</i> - Desarrollador Web Full Stack. Entusiasta de la programación y el aprendizaje de las nuevas tecnologías. Tengo mas de 5 años de experiencia, orientada a la elaboración de API RESTful ya sea en monolítico o en micro-servicios, sistemas y aplicaciones web, durante todas las etapas de su desarrollo con metodologías ágiles como SCRUM, pero ciertamente me atrae mas el mundo del frontend. En mi trabajo me gusta orientarme utilizando las ultimas tecnologías y estándares disponibles, con la finalidad de mejorar su rendimiento y facilitar su mantenimiento, incorporando a su vez el diseño responsivo soportando dispositivos móviles, asegurando que todas las funcionalidades del sistema sean compatibles."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "timeline": {
+      "one": {
+        "company": "Agence Consultoría – Brasil | Chile | USA",
+        "date": "May.2018 - Actualmente",
+        "content": "Desarrollador Web FullStack (Backend y Frontend). Javascript: NodeJS (Express, LoopBack), (React, AngularJS, Angular, Vue, jQuery). PHP (Codeigniter, Laravel). Creación y consumo de diversos API. Creación y consumo de Web Services y Micro Servicios. Responsable de Base de datos (MySQL y PostgreSQL). Solución a conflictos del servidor del cual soy lider tecnico y responsable de la misma. Mantenimiento de proyectos ya existentes. Creación de nuevos proyectos.Actualmente estamos trabajando en la nueva version de una SPA, la cual la estamos desarrollando con NodeJS, ReactJS, BD PostgreSQL usando sequelize como ORM.Full time."
+      },
+      "two": {
+        "company": "Neotech Engineering Ltda",
+        "date": "Oct.2017 - Abr.2018 (7 meses)",
+        "content": "Desarrollador Frontend Freelance Desarrollo de plataforma fitness llamada InfluenceME, participando en el desarrollo del frontend de la app y página web. Aplicación desarrollada en el frontend con: AngularJS Gulp.js, Browser sync Librerías especificas de jQuery con directivas para AngularJS Firebase -> Angularfire (authentication SMS, FB, Email), usando Materialize Animate para la estructuta del código CSS, usando Cordova para crear app móvil y consumo de API donde estaba integrado servicios de pagos para que el usuario comprara membresias, rutinas de ejercicios, etc... Full time."
+      },
+      "three": {
+        "company": "Agence Consultoría – Brasil | Chile | USA",
+        "date": "May.2017 - Oct.2017 (6 meses)",
+        "content": "Desarrollador Web FullStack (Backend y Frontend). Javascript: NodeJS (Express, LoopBack), (AngularJS, Angular, jQuery). PHP (Laravel, Cakephp, CodeIgniter). Creación y consumo de API. Creación y consumo de Web Services y Micro Servicios. Responsable de Base de datos (MySQL y PostgreSQL). Solución a conflictos del servidor de una SPA del cual era el lider técnico, mantenimiento de proyectos ya existentes, creación de nuevos proyectos, estuve involucrado en diversos proyectos donde utilicé las diversas tecnologías nombradas anteriormente. Full time."
+      },
+      "four": {
+        "company": "CCS Innovación y Desarrollo C.A",
+        "date": "Feb.2015 - Ago.2017 (2 años y 7 meses)",
+        "content": "Desarrollador Web (Backend y Frontend). Analista, administrador de bases de datos (PostgreSQL, MySQL y MongoDB), configuración del servidor Heroku y CPanel para despliegues de proyecto, creación en conjunto al equipo de trabajo de una SPA de rastreos de dispositivos usando como tecnologias principales: NodeJS, AngularJS, Leaflet, otros diversos proyectos desarrollados con PHP Laravel y CodeIgniter."
+      },
+      "five": {
+        "company": "Gobernacion del Estado Falcón",
+        "date": "Oct.2014 - Jun.2017 (2 años y 9 meses)",
+        "content": "Desarrollador de aplicaciones web en lenguajes como PHP (Laravel, CakePHP, CodeIgniter, Yii) y todo ligado al (frontend) como HTML Y CSS y JavaScript (jQuery y Angularjs), responsable de bases de datos en PostgreSQL y MySQL con grandes cantidades de datos, mantenimiento de sistemas existentes para la administración pública de todo el estado, al igual como creación de nuevos proyectos, lider técnico de dos proyectos."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portafolio / Información Adicional",
+    "subtitles": {
+      "one": "Algunos proyectos en los que he participado y desarrollado",
+      "two": {
+        "title": "Repositorios compartidos en Github",
+        "social": "Redes Sociales",
+        "secondary": "Email Secundario"
+      },
+      "three": "Estudios, cursos y certificados"
+    }
+  },
+  "titleCards": {
+    "one": "Stack actual",
+    "two": "He usado",
+    "three": {
+      "title": "Idiomas",
+      "spanish": "Español - Fluido",
+      "english": "Inglés - B1"
+    }
+  },
+  "currentDevelopment": "(desarrollando version 2.0)",
+  "profession": "Ingenieria de sistemas."
+}
