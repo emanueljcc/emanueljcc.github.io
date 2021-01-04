@@ -9,10 +9,15 @@
   "experience": {
     "title": "Experiencia",
     "timeline": {
+      "st37": {
+        "company": "ST37 Sport et Technologie",
+        "date": "May.2020 - Dic.2020 (6 meses)",
+        "content": "Desarrollador FullStack (Laravel y React - TS), participando en un proyecto llamado Skouting y otros mas, junto a un equipo de trabajo (remoto), la plataforma es de video analisis junto a otras tecnologias que manejaba otro equipo, mi trabajo fue participar en todo el desarrollo del proyecto, tanto en el frontend como en el backend, siguiendo un proyecto montando en Figma creado por un diseñador perteneciente al equipo, basicamente era seguir el diseño pixel perfect de los modulos asignados, toda la implementacion con procesadores de pagos como PayPal y otros otros modulos del sistema, llevando toda esa logica en el backend."
+      },
       "one": {
         "company": "Agence Consultoría – Brasil | Chile | USA",
         "date": "May.2018 - Actualmente",
-        "content": "Desarrollador Web FullStack (Backend y Frontend). Javascript: NodeJS (Express, LoopBack), (React, AngularJS, Angular, Vue, jQuery). PHP (Codeigniter, Laravel). Creación y consumo de diversos API. Creación y consumo de Web Services y Micro Servicios. Responsable de Base de datos (MySQL y PostgreSQL). Solución a conflictos del servidor del cual soy lider tecnico y responsable de la misma. Mantenimiento de proyectos ya existentes. Creación de nuevos proyectos.Actualmente estamos trabajando en la nueva version de una SPA, la cual la estamos desarrollando con NodeJS, ReactJS, BD PostgreSQL usando sequelize como ORM.Full time."
+        "content": "Desarrollador Web FullStack (Backend y Frontend). Javascript: NodeJS (Express, LoopBack), (React, AngularJS, Angular, Vue, jQuery). PHP (Codeigniter, Laravel). Creación y consumo de diversas API. Creación y consumo de Web Services y Micro Servicios. Responsable de Base de datos (MySQL y PostgreSQL). Solución a conflictos basicos del servidor. Mantenimiento de proyectos ya existentes. Creación de nuevos proyectos. Maquetador de futuros proyectos, Tambien soy responsable de evaluar los test de candidatos nuevos a ingresar a la empresa. Actualmente estoy trabajando en un proyecto en Laravel 8 como desarrollador Backend."
       },
       "two": {
         "company": "Neotech Engineering Ltda",
@@ -57,6 +62,7 @@
       "english": "Inglés - B1"
     }
   },
-  "currentDevelopment": "(desarrollando version 2.0)",
+  "version": "(version 2.0)",
+  "currentDevelopment": "(Actualmente desarrollando)",
   "profession": "Ingenieria de sistemas."
 }
