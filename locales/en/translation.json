@@ -9,6 +9,11 @@
   "experience": {
     "title": "Experience",
     "timeline": {
+      "sistran": {
+        "company": "SISTRAN Consultores",
+        "date": "Ago.2020 - Actualmente",
+        "content": "FullStack developer (MERN), participating in several projects in microservices, involved in various tasks that include both the frontend and the backend."
+      },
       "st37": {
         "company": "ST37 Sport et Technologie",
         "date": "May.2020 - Dec.2020 (8 months)",
