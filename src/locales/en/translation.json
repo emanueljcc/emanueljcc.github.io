@@ -1,0 +1,79 @@
+{
+  "currentProfession": "FullStack Web Developer",
+  "frontProfession": "Developer Frontend",
+  "oldProfession": "Programming Language Specialist",
+  "profile": {
+    "title": "Profile",
+    "content": "<i><strong>Systems Engineer</strong> graduated from UNEFA (National Experimental Polytechnic University of the Armed Forces) of Venezuela - Full Stack Web Developer. Enthusiastic about programming and learning new technologies. I have more than 6 years of experience, focused on the development of systems and web applications working on the frontend and backend, during all stages of their development with agile methodologies such as SCRUM, but I am certainly more attracted to the world of the frontend. In my work I like to orient myself using the latest technologies and standards available, in order to improve its performance and facilitate its maintenance, while incorporating responsive design supporting mobile devices, ensuring that all system features are compatible."
+  },
+  "experience": {
+    "title": "Experience",
+    "timeline": {
+      "asistensi": {
+        "company": "Asistensi",
+        "date": "sept. 2021 - at the moment",
+        "content": "FullStack developer (MERN), participating in all the company's projects where the mentioned technologies are. Creation and consumption of endpoints (API) Nodejs - MongoDB. Implementation of login/registration by providers such as google/apple, SMS/email code, magic link. Participating in the new design (frontend) of the platform in the different countries. Participating in the trading flow of the platform. Edition of existing codes."
+      },
+      "sistran": {
+        "company": "SISTRAN Consultores",
+        "date": "Ago.2020 - Dec.2021",
+        "content": "FullStack Developer (MERN), participating in various microservices in Node as well as the creation of new endpoints and required services, as well as involved in the development of applications made in React also in the Next framework. I am currently developing a private library with React to reject functionalities between applications."
+      },
+      "st37": {
+        "company": "ST37 Sport et Technologie",
+        "date": "May.2020 - Dec.2020 (8 months)",
+        "content": "FullStack developer (Laravel and React - TS), participating in a project called Skouting and others, together with a (remote) work team, the platform is for video analysis along with other technologies that another team managed, my job was to participate in all the development of the project, both in the frontend and in the backend, following a project mounted in Figma created by a designer belonging to the team, basically it was to follow the pixel perfect design of the assigned modules, all the implementation with payment processors such as PayPal and other modules of the system, carrying all that logic in the backend."
+      },
+      "one": {
+        "company": "Agence Consulting – Brasil | Chile | USA",
+        "date": "May 2018 - Aug 2021 (more than 3 years)",
+        "content": "FullStack Web Developer (Backend and Frontend). Javascript: NodeJS (Express, LoopBack), (React, AngularJS, Angular, Vue, jQuery). PHP (Codeigniter, Laravel). Creation and consumption of various APIs. Creation and consumption of Web Services and Micro Services. Responsible for Database (MySQL and PostgreSQL). Solution to basic server conflicts. Maintenance of existing projects. Creation of new projects. Designer of future projects, I was also responsible for evaluating the tests of new candidates to join the company."
+      },
+      "two": {
+        "company": "Neotech Engineering Ltda",
+        "date": "Oct 2017 - April 2018 (7 months)",
+        "content": "Freelance Frontend Developer Development of a fitness platform called InfluenceME, participating in the development of the app and website frontend. Application developed in the frontend with: AngularJS Gulp.js, Browser sync Specific jQuery libraries with directives for AngularJS Firebase -> Angularfire (authentication SMS, FB, Email), using Materialize Animate for the CSS code structure, using Cordova to create app mobile and API consumption where payment services were integrated for the user to buy memberships, exercise routines, etc ... Full time."
+      },
+      "three": {
+        "company": "Agence Consulting – Brasil | Chile | USA",
+        "date": "May 2017 - Oct 2017 (6 months)",
+        "content": "FullStack Web Developer (Backend and Frontend). Javascript: NodeJS (Express, LoopBack), (AngularJS, Angular, jQuery). PHP (Laravel, Cakephp, CodeIgniter). API creation and consumption. Creation and consumption of Web Services and Micro Services. Responsible for Database (MySQL and PostgreSQL). Solution to conflicts of the server of a SPA of which I was the technical leader, maintenance of existing projects, creation of new projects, I was involved in various projects where I used the various technologies named above. Full time."
+      },
+      "four": {
+        "company": "CCS Innovation and Development C.A",
+        "date": "Feb.2015 - Aug.2017 (2 years and 7 months)",
+        "content": "Web Developer (Backend and Frontend). Analyst, database administrator (PostgreSQL, MySQL and MongoDB), configuration of the Heroku and CPanel server for project deployments, joint creation of a device tracking SPA team using the main technologies: NodeJS, AngularJS, Leaflet , various other projects developed with PHP Laravel and CodeIgniter."
+      },
+      "five": {
+        "company": "Falcón State Government",
+        "date": "Oct.2014 - Jun.2017 (2 years and 9 months)",
+        "content": "Developer of web applications in languages ​​such as PHP (Laravel, CakePHP, CodeIgniter, Yii) and everything linked to (frontend) such as HTML AND CSS and JavaScript (jQuery and Angularjs), responsible for databases in PostgreSQL and MySQL with large amounts of data , maintenance of existing systems for public administration throughout the state, as well as creation of new projects, technical leader of two projects."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio / Additional Information",
+    "subtitles": {
+      "one": "Some of the most relevant projects in which I have participated and developed",
+      "two": {
+        "title": "Shared repositories on Github",
+        "social": "Social Networks",
+        "secondary": "Secondary Email"
+      },
+      "three": "Studies, courses and certificates"
+    }
+  },
+  "titleCards": {
+    "one": "Current stack",
+    "two": "I have used",
+    "three": {
+      "title": "Languages",
+      "spanish": "Native Spanish",
+      "english": "English - A2"
+    }
+  },
+  "version": "(version 2.0)",
+  "currentDevelopment": "(Current development)",
+  "profession": "Systems engineering.",
+  "leveagro": "platform the fertilizantes sales"
+}

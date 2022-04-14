@@ -1,0 +1,135 @@
+/* global.css */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+.App-header {
+  height: 100%;
+  font-size: 15px;
+}
+body {
+  --bg: white;
+  --textNormal: #565656;
+  --textTitle: #565656;
+  --textLink: blue;
+  --hr: hsla(0, 0%, 0%, 0.2);
+
+  background-color: var(--bg);
+}
+
+body.dark {
+  -webkit-font-smoothing: antialiased;
+
+  --bg: #131217;
+  --textNormal: #dbd8e3;
+  --textTitle: white;
+  --textLink: yellow;
+  --hr: hsla(0, 0%, 100%, 0.2);
+  --cardColor: #9d3d7d;
+  --link: #dbd8e3;
+}
+
+#gatsby-focus-wrapper > div > div > main > div > div > div.col-xl-10.col-12 > div.css-o1utbh{
+  font-family: "Josefin Sans";
+  font-size: 90%;
+}
+.card {
+  font-size: 90%;
+}
+
+::selection {
+  color: #fff;
+  background-color: #9d3d7d;
+}
+hr.division {
+  border-top: 1px dashed #8c8b8b;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* toggle dark mode */
+.switch {
+  display: flex;
+  height: 35px;
+  position: relative;
+  width: 70px;
+}
+.switch input {
+  display:none;
+}
+.slider {
+  background-color: #FFF;
+  border:1px solid #000;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+.slider:before {
+  background-color: #333;
+  border:1px solid #000;
+  bottom: 3px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: .4s;
+  width: 26px;
+  z-index:421;
+}
+input:checked + .slider {
+  background-color: #101211;
+}
+input:checked + .slider:before {
+  transform: translateX(34px);
+  border-color:#CFCFCF;
+  background-color:#EFEFEF;
+}
+.slider.round {
+  border-radius: 34px;
+}
+.slider.round:before {
+  border-radius: 50%;
+}
+.toggle-moon, .toggle-sun {
+  width:50%;
+  text-align:center;
+  padding:0.5em;
+  position:relative;
+  z-index:420;
+}
+/* toggle dark mode */
+
+
+
+
+
+/* DIVIDER */
+.divider {
+  display: flex;
+}
+.divider:before, .divider:after {
+  content: "";
+  flex: 1;
+}
+.line {
+  align-items: center;
+}
+.line:before, .line:after {
+  height: .5px;
+  margin: 0 .5em;
+}
+.glow:before, .glow:after {
+  height: 3px;
+  -webkit-filter: blur(2px);
+  border-radius: 5px;
+}
+.glow:before {
+  background: linear-gradient(to right, black, #9d3d7d);
+}
+.glow:after {
+  background: linear-gradient(to left, black, #9d3d7d);
+}
