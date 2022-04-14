@@ -103,10 +103,6 @@ input:checked + .slider:before {
 }
 /* toggle dark mode */
 
-
-
-
-
 /* DIVIDER */
 .divider {
   display: flex;

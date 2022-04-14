@@ -7,7 +7,7 @@ const Profile = ({ aos }) => {
   return (
     <div data-aos={aos}>
       <h2 className="divider line glow">
-        {t("profile.title")} sfsdfs
+        {t("profile.title")}
       </h2>
       <p className="color-secondary justify p-10">
         {/* TODO: fix translation key strong */}
