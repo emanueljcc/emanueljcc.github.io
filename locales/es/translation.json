@@ -1,0 +1,79 @@
+{
+  "currentProfession": "Desarrollador Web FullStack",
+  "frontProfession": "Desarrollador Frontend",
+  "oldProfession": "Especialista en Lenguaje de Programación",
+  "profile": {
+    "title": "Perfil",
+    "content": "<i><strong>Ingeniero de Sistemas</strong> graduado en la UNEFA (Universidad Nacional Experimental Politécnica de la Fuerza Armada) de Venezuela - Desarrollador Web Full Stack. Entusiasta de la programación y el aprendizaje de las nuevas tecnologías. Tengo mas de 6 años de experiencia, orientada a la elaboración de sistemas y aplicaciones web trabajando en el frontend y en el backend, durante todas las etapas de su desarrollo con metodologías ágiles como SCRUM, pero ciertamente me atrae mas el mundo del frontend. En mi trabajo me gusta orientarme utilizando las ultimas tecnologías y estándares disponibles, con la finalidad de mejorar su rendimiento y facilitar su mantenimiento, incorporando a su vez el diseño responsivo soportando dispositivos móviles, asegurando que todas las funcionalidades del sistema sean compatibles."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "timeline": {
+      "asistensi": {
+        "company": "Asistensi",
+        "date": "sept. 2021 - Actualmente",
+        "content": "Desarrollador FullStack (MERN), participando en todos los proyectos de la empresa donde estan las tecnologias mencionadas. Creación y consumo de endpoints (API) Nodejs - MongoDB. Implementación de login/registro por providers como google/apple, SMS/email code, magic link. Participando en el nuevo diseño (frontend) de la plataforma en los distintos paises. Participando en el flujo de cotizacion de la plataforma. Edición de códigos ya existentes."
+      },
+      "sistran": {
+        "company": "SISTRAN Consultores",
+        "date": "Ago.2020 - Dic.2021",
+        "content": "Desarrollador FullStack (MERN), participando en varios microservicios en Node así como la creación de nuevos endpoints y servicios requeridos, así como también involucrado en el desarrollo de aplicaciones hechas en React también en el framework Next. Actualmente me encuentro desarrollando una librería privada con React para rehusar funcionalidades entre aplicaciones."
+      },
+      "st37": {
+        "company": "ST37 Sport et Technologie",
+        "date": "May.2020 - Dic.2020 (8 meses)",
+        "content": "Desarrollador FullStack (Laravel y React - TS), participando en un proyecto llamado Skouting y otros mas, junto a un equipo de trabajo (remoto), la plataforma es de video analisis junto a otras tecnologias que manejaba otro equipo, mi trabajo fue participar en todo el desarrollo del proyecto, tanto en el frontend como en el backend, siguiendo un proyecto montando en Figma creado por un diseñador perteneciente al equipo, basicamente era seguir el diseño pixel perfect de los modulos asignados, toda la implementacion con procesadores de pagos como PayPal y otros otros modulos del sistema, llevando toda esa logica en el backend."
+      },
+      "one": {
+        "company": "Agence Consultoría – Brasil | Chile | USA",
+        "date": "May.2018 - Ago.2021 (mas de 3 años)",
+        "content": "Desarrollador Web FullStack (Backend y Frontend). Javascript: NodeJS (Express, LoopBack), (React, AngularJS, Angular, Vue, jQuery). PHP (Codeigniter, Laravel). Creación y consumo de diversas API. Creación y consumo de Web Services y Micro Servicios. Responsable de Base de datos (MySQL y PostgreSQL). Solución a conflictos basicos del servidor. Mantenimiento de proyectos ya existentes. Creación de nuevos proyectos. Maquetador de futuros proyectos, Tambien fui responsable de evaluar los test de candidatos nuevos a ingresar a la empresa."
+      },
+      "two": {
+        "company": "Neotech Engineering Ltda",
+        "date": "Oct.2017 - Abr.2018 (7 meses)",
+        "content": "Desarrollador Frontend Freelance Desarrollo de plataforma fitness llamada InfluenceME, participando en el desarrollo del frontend de la app y página web. Aplicación desarrollada en el frontend con: AngularJS Gulp.js, Browser sync Librerías especificas de jQuery con directivas para AngularJS Firebase -> Angularfire (authentication SMS, FB, Email), usando Materialize Animate para la estructuta del código CSS, usando Cordova para crear app móvil y consumo de API donde estaba integrado servicios de pagos para que el usuario comprara membresias, rutinas de ejercicios, etc... Full time."
+      },
+      "three": {
+        "company": "Agence Consultoría – Brasil | Chile | USA",
+        "date": "May.2017 - Oct.2017 (6 meses)",
+        "content": "Desarrollador Web FullStack (Backend y Frontend). Javascript: NodeJS (Express, LoopBack), (AngularJS, Angular, jQuery). PHP (Laravel, Cakephp, CodeIgniter). Creación y consumo de API. Creación y consumo de Web Services y Micro Servicios. Responsable de Base de datos (MySQL y PostgreSQL). Solución a conflictos del servidor de una SPA del cual era el lider técnico, mantenimiento de proyectos ya existentes, creación de nuevos proyectos, estuve involucrado en diversos proyectos donde utilicé las diversas tecnologías nombradas anteriormente. Full time."
+      },
+      "four": {
+        "company": "CCS Innovación y Desarrollo C.A",
+        "date": "Feb.2015 - Ago.2017 (2 años y 7 meses)",
+        "content": "Desarrollador Web (Backend y Frontend). Analista, administrador de bases de datos (PostgreSQL, MySQL y MongoDB), configuración del servidor Heroku y CPanel para despliegues de proyecto, creación en conjunto al equipo de trabajo de una SPA de rastreos de dispositivos usando como tecnologias principales: NodeJS, AngularJS, Leaflet, otros diversos proyectos desarrollados con PHP Laravel y CodeIgniter."
+      },
+      "five": {
+        "company": "Gobernacion del Estado Falcón",
+        "date": "Oct.2014 - Jun.2017 (2 años y 9 meses)",
+        "content": "Desarrollador de aplicaciones web en lenguajes como PHP (Laravel, CakePHP, CodeIgniter, Yii) y todo ligado al (frontend) como HTML Y CSS y JavaScript (jQuery y Angularjs), responsable de bases de datos en PostgreSQL y MySQL con grandes cantidades de datos, mantenimiento de sistemas existentes para la administración pública de todo el estado, al igual como creación de nuevos proyectos, lider técnico de dos proyectos."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portafolio / Información Adicional",
+    "subtitles": {
+      "one": "Algunos de los proyectos mas relevantes en los que he participado y desarrollado",
+      "two": {
+        "title": "Repositorios compartidos en Github",
+        "social": "Redes Sociales",
+        "secondary": "Email Secundario"
+      },
+      "three": "Estudios, cursos y certificados"
+    }
+  },
+  "titleCards": {
+    "one": "Stack actual",
+    "two": "He usado",
+    "three": {
+      "title": "Idiomas",
+      "spanish": "Español - Nativo",
+      "english": "Inglés - A2"
+    }
+  },
+  "version": "(version 2.0)",
+  "currentDevelopment": "(Actualmente desarrollando)",
+  "profession": "Ingenieria de sistemas.",
+  "leveagro": "plataforma de venta de fertilizantes"
+}
