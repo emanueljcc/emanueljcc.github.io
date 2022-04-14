@@ -45,8 +45,8 @@ const IndexPage = () => {
   }, [])
 
   // enable trasitions (fade-up)
-  // const AOS_ENABLED = 'fade-up'; // available
-  const AOS_ENABLED = ''; // '' => unavailable
+  const AOS_ENABLED = 'fade-up'; // available
+  // const AOS_ENABLED = ''; // '' => unavailable
 
   return (
     <div style={colorTheme.theme}>
