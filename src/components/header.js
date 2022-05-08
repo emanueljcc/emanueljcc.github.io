@@ -71,9 +71,9 @@ const Header = ({ aos }) => {
                 className="fa fa-envelope-o font-weight-bold m-top-2 "
                 aria-hidden="true"
               />
-              <p className="margin-0 color-secondary">
+              <a href="mailto:emanuelcastillo9101@gmail.com" rel="noreferrer" className="margin-0 color-secondary" style={{ color: '#565656', textDecoration: 'underline' }}>
                 &nbsp;emanuelcastillo9101@gmail.com
-              </p>
+              </a>
             </article>
             <br />
 
@@ -82,9 +82,9 @@ const Header = ({ aos }) => {
                 className="fa fa-whatsapp font-weight-bold m-top-2 "
                 aria-hidden="true"
               />
-              <p className="margin-0 color-secondary">
+              <a href="https://api.whatsapp.com/send?phone=584124501381" rel="noreferrer" target="_blank" className="margin-0 color-secondary" style={{ color: '#565656', textDecoration: 'underline' }}>
                 &nbsp;WS +58-412-4501381
-              </p>
+              </a>
             </article>
             <br />
             <br />

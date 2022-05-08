@@ -12,11 +12,11 @@
       "asistensi": {
         "company": "Asistensi",
         "date": "sept. 2021 - at the moment",
-        "content": "FullStack developer (MERN), participating in all the company's projects where the mentioned technologies are. Creation and consumption of endpoints (API) Nodejs - MongoDB. Implementation of login/registration by providers such as google/apple, SMS/email code, magic link. Participating in the new design (frontend) of the platform in the different countries. Participating in the trading flow of the platform. Edition of existing codes."
+        "content": "FullStack developer (MERN), participating in all the company's projects where the mentioned technologies are. Creation and consumption of endpoints (API) Nodejs - MongoDB. Implementation of login/registration by providers such as google/apple, SMS/email code, magic link. Participating in the new design (frontend) of the platform in the different countries. Participation in the launch of the platform in 3 countries. Participating in the flow of quotation and affiliation of the platform. Edition of existing codes."
       },
       "sistran": {
         "company": "SISTRAN Consultores",
-        "date": "Ago.2020 - Dec.2021",
+        "date": "Sep.2020 - Dec.2021",
         "content": "FullStack Developer (MERN), participating in various microservices in Node as well as the creation of new endpoints and required services, as well as involved in the development of applications made in React also in the Next framework. I am currently developing a private library with React to reject functionalities between applications."
       },
       "st37": {
@@ -76,5 +76,6 @@
   "currentDevelopment": "(Current development)",
   "profession": "Systems engineering.",
   "leveagro": "platform the fertilizantes sales",
-  "download": "Download Curriculum Vitae"
+  "download": "Download Curriculum Vitae",
+  "library": "Private library"
 }
