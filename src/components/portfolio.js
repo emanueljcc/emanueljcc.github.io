@@ -368,11 +368,55 @@ const Portfolio = ({ colorTheme, aos }) => {
                 <li>
                   <a
                     style={colorTheme.link}
+                    href="http://asistensi.com.ph/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    http://asistensi.com.ph/{" "}
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    style={colorTheme.link}
+                    href="http://asistensi.com.gt/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    http://asistensi.com.gt/{" "}
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    style={colorTheme.link}
                     href="http://asesores.vidaplatform.com/"
                     target="_blank"
                     rel="noreferrer"
                   >
                     http://asesores.vidaplatform.com/{" "}
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    style={colorTheme.link}
+                    href="https://play.google.com/store/apps/collection/cluster?gsr=SjZqGDBqWFlmU3l4cWg4cC9UWDByNHQxTlE9PbICGQoXChNjb20uYXNpc3RlbnNpTVguYXBwEAc%3D:S:ANO1ljIrShU&hl=es_419&gl=US"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    apps asistensi google play{" "}
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    style={colorTheme.link}
+                    href="https://apps.apple.com/us/developer/asistensi/id1597754918"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    apps asistensi app store (apple){" "}
                   </a>
                 </li>
               </ul>

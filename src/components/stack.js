@@ -62,6 +62,10 @@ const Stack = ({ colorTheme, aos }) => {
               </li>
               <li>
                 <DiReact color="#000" size={25} />
+                React Native
+              </li>
+              <li>
+                <DiReact color="#000" size={25} />
                 React.js
               </li>
               <li>
@@ -168,10 +172,6 @@ const Stack = ({ colorTheme, aos }) => {
           </Card.Header>
           <Card.Body>
             <ul>
-              <li>
-                <DiReact color="#000" size={25} />
-                React Native / Expo
-              </li>
               <li>
                 <DiAngularSimple color="#000" size={25} />
                 Angular.js
